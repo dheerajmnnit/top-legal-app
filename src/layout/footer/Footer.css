@@ -1,0 +1,15 @@
+@import url("../../assets/style/colors.css");
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color10) !important;
+  width: 100%;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: var(--color4);
+  letter-spacing: 3px;
+}

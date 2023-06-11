@@ -1,0 +1,6 @@
+@import url("./colors.css");
+
+.characterCoverFrame {
+  border: solid 2px var(--color2);
+  box-shadow: 0 6px 6px -6px var(--color2);
+}

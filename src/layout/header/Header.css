@@ -1,0 +1,14 @@
+@import "../../assets/style/colors.css";
+
+.header {
+  background: var(--color10) !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px !important;
+}
+
+.header__logo {
+  cursor: pointer;
+  height: 90%;
+}
